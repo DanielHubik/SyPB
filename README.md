@@ -14,3 +14,10 @@ SyPB AMXX API - Lastly Version: 1.48 (Build: 1.48.50576.49)
 ! Windows Only !
 
 Download or more pls visit: http://ccnhsk-dev.blogspot.hk/
+
+Support:
+<p>
+  <a href="https://www.paypal.com/ncp/payment/XRMJUNCBGPTTN">
+      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
+  </a>
+</p>
